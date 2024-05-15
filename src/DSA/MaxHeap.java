@@ -1,6 +1,6 @@
 package DSA;
 
-public class MaxHeap {
+public   class MaxHeap {
     int[] arr;
     int maxSize;
     int heapSize;
